@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileData", "FileData\FileDa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartyTools", "ThirdPartyTools\ThirdPartyTools.csproj", "{16ADD673-64B2-43C8-92D9-EA5F2CC6863F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDataTest", "FileDataTest\FileDataTest.csproj", "{D4E36E28-A849-46DC-BEB9-5BF1CBE2042E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{16ADD673-64B2-43C8-92D9-EA5F2CC6863F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16ADD673-64B2-43C8-92D9-EA5F2CC6863F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16ADD673-64B2-43C8-92D9-EA5F2CC6863F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E36E28-A849-46DC-BEB9-5BF1CBE2042E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E36E28-A849-46DC-BEB9-5BF1CBE2042E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E36E28-A849-46DC-BEB9-5BF1CBE2042E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E36E28-A849-46DC-BEB9-5BF1CBE2042E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
